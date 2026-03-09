@@ -1,7 +1,5 @@
-
 from modelos.libro import Libro
 from modelos.usuario import Usuario
-
 
 class BibliotecaServicio:
     """Clase que contiene la lógica.
